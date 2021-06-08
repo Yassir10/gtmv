@@ -1,0 +1,1 @@
+This website displays the most popular latest movies. Each movies contains a corresponding image, overview, rating and release date. The movies' data is fetched from the Movie Database (TMDB) API (v3). TMDb is a community built movie and TV database. Every piece of data has been added by its amazing community dating back to 2008.
